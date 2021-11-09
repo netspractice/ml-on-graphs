@@ -5,11 +5,11 @@ title: Social Network Analysis and Machine Learning on Graphs
 
 # About
 
-This course is an introduction to the network science and machine learning problems on graphs. Next session will be held at Spring 2022 at BigData Academy MADE by [VK](https://vk.company/).
+This course is an introduction to the network science and machine learning problems on graphs. Next session will be held at Spring 2022 at [BigData Academy MADE](https://data.mail.ru/) by [VK](https://vk.company/).
 
 # Team
 
-{% include image-row.html url1="assets/imgs/ilya.jpg" description1="Ilya Makarov" link1="https://www.hse.ru/en/staff/iamakarov" url2="assets/imgs/vitalii.jpeg" description2="Vitalii Pozdnyakov" link2="https://www.hse.ru/en/staff/vvpozdnyakov" url3="assets/imgs/mitya.jpg" description3="Dmitrii Kiselev" link3="https://www.hse.ru/en/staff/mkiseljov" url4="assets/imgs/leonid.jpg" description4="Leonid E. Zhukov" link4="https://www.hse.ru/en/staff/lzhukov" %}
+{% include image-row.html url1="assets/imgs/ilya.jpg" description1="Ilya Makarov" link1="#" url2="assets/imgs/vitalii.jpeg" description2="Vitalii Pozdnyakov" link2="#" url3="assets/imgs/mitya.jpg" description3="Dmitrii Kiselev" link3="#" url4="assets/imgs/leonid.jpg" description4="Leonid E. Zhukov" link4="#" %}
 
 
 # Schedule
