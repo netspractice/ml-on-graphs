@@ -99,12 +99,7 @@ Knowledge graphs basics. Problems on knowledge graphs: completion, reasoning, ap
 
 # Recommended books
 
-* "Network Science", Albert-Laszlo Barabasi, Cambridge University
-Press, 2016. http://networksciencebook.com
-* "Networks: An Introduction". Mark Newman. Oxford University
-Press, 2010.
-* "Social Network Analysis. Methods and Applications". Stanley
-Wasserman and Katherine Faust, Cambridge University Press, 1994
-* "Networks, Crowds, and Markets: Reasoning About a Highly
-Connected World". David Easley and John Kleinberg, Cambridge
-University Press 2010.
+* [Network Science](http://networksciencebook.com), Albert-Laszlo Barabasi, Cambridge University Press, 2016.
+* "Networks: An Introduction". Mark Newman. Oxford University Press, 2010.
+* "Social Network Analysis. Methods and Applications". Stanley Wasserman and Katherine Faust, Cambridge University Press, 1994
+* "Networks, Crowds, and Markets: Reasoning About a Highly Connected World". David Easley and John Kleinberg, Cambridge University Press 2010.
